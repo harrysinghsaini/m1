@@ -11,13 +11,14 @@ body{
 	
 }
 header {
-	
-	padding:10px 10px 10px 10px;
+	height: 98px;
+	padding:10px 10px 0px 10px;
 	background-color:#000000;
 	background-image:url(ClientContent/TCMC%20Images%20Docs/SiteImages/TCMCbannerExtract3501002.jpg);
 }
-header h1 {
-	padding-left: 5px;
+h1 {
+	padding-left:100px ;
+	
 }
 header h3 {
 	color:white;
@@ -29,7 +30,7 @@ header h3 {
 .nav{
 	overflow:hidden;
 	background-color:green;
-	padding:0px 180px;
+	padding:0px 170px;
 	}
 	.nav a {
     float: left;
@@ -87,6 +88,96 @@ a:hover{
     padding: 14px 16px;
     background-color: inherit;
 }
+#col1 {
+	background-image:url(ClientContent/TCMC%20Images%20Docs/SiteImages/woodgrain13P02.gif);
+	width: 18%;
+	float: left;
+	height: 637px;
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 70px 0px 50px;
+}
+#col2 {
+	background-image:url(ClientContent/TCMC%20Images%20Docs/events/a.jpg);
+	width: 68%;
+	float: left;
+	height: 318px;
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 35px;	
+}
+#col3 {
+	background-color:#000000;
+	color:#ECECEC;
+	width: 68%;
+	float: left;
+	height: 318px;
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 35px;	
+}
+#col4 {
+	
+	width: 59%;
+	float: left;
+	height: 632px;
+	border:solid;
+	border-color:#000000;
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 125px;
+}
+#col5{
+	width:30%;
+	float:left;
+	padding:0px;
+}
+#col6{
+	width:70%;
+	height:332px;
+	padding:0px;
+	float:right;
+	
+}
+
+#col81{
+	width: 18%;
+	float: left;
+	height: auto;
+	
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 20px;
+	background-color:#EC7F14;
+}
+#col82{
+	width: 75%;
+	float: left;
+	
+	padding: 0px 0px 0px 10px;
+	
+}
+#col83{
+	width: 75%;
+	float: left;
+	
+	padding: 0px 0px 0px 10px;
+}
+#col84{
+	width: 75%;
+	height: 800px;
+	float: left;
+	
+	padding: 0px 0px 0px 10px;
+	background-image:url(ClientContent/TCMC%20Images%20Docs/bulletin/tyto1.jpg);
+}
+.post{
+	
+	padding-left: 2px;
+}
+
+	
+	
 footer {
 	clear: both;
 	background-color: green;
